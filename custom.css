@@ -1,0 +1,57 @@
+.bg-naranja {
+  background-color: #ee7021;
+}
+
+.bg-light {
+  background-color: #F1F1EF !important;
+}
+
+.text-naranja {
+  color: #ee7021;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 300;
+}
+
+body {
+  font-family: "Fira Sans", sans-serif !important;
+}
+
+.navbar {
+  font-weight: 500;
+}
+
+#acerca-de {
+  background-image: url("assets/1920x400-oticonmedical-insights.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 8em 0;
+}
+
+.btn-warning {
+  background-color: #ee7021;
+  color: white;
+}
+
+.btn-lg {
+  border-radius: 2em;
+}
+
+.btn {
+  border-radius: 1.5em;
+  padding: 0.5em 1em;
+}
+
+section {
+  color: #575754;
+}
+
+#contacto {
+  background-image: url("assets/map-image.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+/*# sourceMappingURL=custom.css.map */
